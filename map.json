@@ -141,7 +141,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/workadventu.re\/"
+                 "value":"https:\/\/inside.bosch.com\/irj\/portal"
                 }],
          "type":"tilelayer",
          "visible":true,
