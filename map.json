@@ -164,7 +164,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/tube.video.bosch.com\/media"
+                 "value":"https:\/\/tube.video.bosch.com\/media\/0_t8q9l1p6"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -443,7 +443,7 @@
          "name":"floor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":93,
          "x":0,
          "y":0
