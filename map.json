@@ -915,7 +915,7 @@
         {
          "name":"script",
          "type":"string",
-         "value":"script.js"
+         "value":"https:\/\/smnlck.github.io\/StakeholderDay\/script.js"
         }, 
         {
          "name":"tutorial",
