@@ -652,7 +652,7 @@
                  "value":"https:\/\/www.mentimeter.com\/s\/614586ea6012b19788f090799245b8f6\/940a96296cd1\/edit"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":93,
          "x":0,
          "y":0
